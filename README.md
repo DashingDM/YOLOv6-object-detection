@@ -184,7 +184,7 @@ data_aug = dict(
 ```
 
 
-## 🎓 Key Concepts
+##  Key Concepts
 
 ### Transfer Learning
 Fine-tuning leverages knowledge learned from COCO dataset:
